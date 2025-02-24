@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "country": "India",
+    "name": { "default": "Andhra Pradesh", "en": "Andhra Pradesh" }
+  },
+  {
+    "id": 2,
+    "country": "India",
+    "name": { "default": "Arunachal Pradesh", "en": "Arunachal Pradesh" }
+  },
+  {
+    "id": 3,
+    "country": "India",
+    "name": { "default": "Assam", "en": "Assam" }
+  },
+  {
+    "id": 4,
+    "country": "India",
+    "name": { "default": "Bihar", "en": "Bihar" }
+  },
+  {
+    "id": 5,
+    "country": "India",
+    "name": { "default": "Chhattisgarh", "en": "Chhattisgarh" }
+  },
+  {
+    "id": 6,
+    "country": "India",
+    "name": { "default": "Goa", "en": "Goa" }
+  },
+  {
+    "id": 7,
+    "country": "India",
+    "name": { "default": "Gujarat", "en": "Gujarat" }
+  },
+  {
+    "id": 8,
+    "country": "India",
+    "name": { "default": "Haryana", "en": "Haryana" }
+  },
+  {
+    "id": 9,
+    "country": "India",
+    "name": { "default": "Himachal Pradesh", "en": "Himachal Pradesh" }
+  },
+  {
+    "id": 10,
+    "country": "India",
+    "name": { "default": "Jharkhand", "en": "Jharkhand" }
+  },
+  {
+    "id": 11,
+    "country": "India",
+    "name": { "default": "Karnataka", "en": "Karnataka" }
+  },
+  {
+    "id": 12,
+    "country": "India",
+    "name": { "default": "Kerala", "en": "Kerala" }
+  },
+  {
+    "id": 13,
+    "country": "India",
+    "name": { "default": "Madhya Pradesh", "en": "Madhya Pradesh" }
+  },
+  {
+    "id": 14,
+    "country": "India",
+    "name": { "default": "Maharashtra", "en": "Maharashtra" }
+  },
+  {
+    "id": 15,
+    "country": "India",
+    "name": { "default": "Manipur", "en": "Manipur" }
+  },
+  {
+    "id": 16,
+    "country": "India",
+    "name": { "default": "Meghalaya", "en": "Meghalaya" }
+  },
+  {
+    "id": 17,
+    "country": "India",
+    "name": { "default": "Mizoram", "en": "Mizoram" }
+  },
+  {
+    "id": 18,
+    "country": "India",
+    "name": { "default": "Nagaland", "en": "Nagaland" }
+  },
+  {
+    "id": 19,
+    "country": "India",
+    "name": { "default": "Odisha", "en": "Odisha" }
+  },
+  {
+    "id": 20,
+    "country": "India",
+    "name": { "default": "Punjab", "en": "Punjab" }
+  },
+  {
+    "id": 21,
+    "country": "India",
+    "name": { "default": "Rajasthan", "en": "Rajasthan" }
+  },
+  {
+    "id": 22,
+    "country": "India",
+    "name": { "default": "Sikkim", "en": "Sikkim" }
+  },
+  {
+    "id": 23,
+    "country": "India",
+    "name": { "default": "Tamil Nadu", "en": "Tamil Nadu" }
+  },
+  {
+    "id": 24,
+    "country": "India",
+    "name": { "default": "Telangana", "en": "Telangana" }
+  },
+  {
+    "id": 25,
+    "country": "India",
+    "name": { "default": "Tripura", "en": "Tripura" }
+  },
+  {
+    "id": 26,
+    "country": "India",
+    "name": { "default": "Uttar Pradesh", "en": "Uttar Pradesh" }
+  },
+  {
+    "id": 27,
+    "country": "India",
+    "name": { "default": "Uttarakhand", "en": "Uttarakhand" }
+  },
+  {
+    "id": 28,
+    "country": "India",
+    "name": { "default": "West Bengal", "en": "West Bengal" }
+  },
+  {
+    "id": 29,
+    "country": "USA",
+    "name": { "default": "California", "en": "California" }
+  },
+  {
+    "id": 30,
+    "country": "USA",
+    "name": { "default": "Texas", "en": "Texas" }
+  },
+  {
+    "id": 31,
+    "country": "USA",
+    "name": { "default": "Florida", "en": "Florida" }
+  },
+  {
+    "id": 32,
+    "country": "USA",
+    "name": { "default": "New York", "en": "New York" }
+  },
+  {
+    "id": 33,
+    "country": "USA",
+    "name": { "default": "Illinois", "en": "Illinois" }
+  },
+  {
+    "id": 34,
+    "country": "USA",
+    "name": { "default": "Pennsylvania", "en": "Pennsylvania" }
+  },
+  {
+    "id": 35,
+    "country": "USA",
+    "name": { "default": "Ohio", "en": "Ohio" }
+  },
+  {
+    "id": 36,
+    "country": "USA",
+    "name": { "default": "Georgia", "en": "Georgia" }
+  },
+  {
+    "id": 37,
+    "country": "USA",
+    "name": { "default": "North Carolina", "en": "North Carolina" }
+  },
+  {
+    "id": 38,
+    "country": "USA",
+    "name": { "default": "Michigan", "en": "Michigan" }
+  },
+  {
+    "id": 39,
+    "country": "Canada",
+    "name": { "default": "Ontario", "en": "Ontario" }
+  },
+  {
+    "id": 40,
+    "country": "Canada",
+    "name": { "default": "Quebec", "en": "Quebec" }
+  },
+  {
+    "id": 41,
+    "country": "Canada",
+    "name": { "default": "British Columbia", "en": "British Columbia" }
+  },
+  {
+    "id": 42,
+    "country": "Canada",
+    "name": { "default": "Alberta", "en": "Alberta" }
+  },
+
+  {
+    "id": 49,
+    "country": "Australia",
+    "name": { "default": "New South Wales", "en": "New South Wales" }
+  },
+  {
+    "id": 50,
+    "country": "Australia",
+    "name": { "default": "Victoria", "en": "Victoria" }
+  },
+  {
+    "id": 51,
+    "country": "Australia",
+    "name": { "default": "Queensland", "en": "Queensland" }
+  },
+  {
+    "id": 52,
+    "country": "Australia",
+    "name": { "default": "Western Australia", "en": "Western Australia" }
+  },
+  
+  {
+    "id": 59,
+    "country": "UK",
+    "name": { "default": "England", "en": "England" }
+  },
+  {
+    "id": 60,
+    "country": "UK",
+    "name": { "default": "Scotland", "en": "Scotland" }
+  },
+  {
+    "id": 61,
+    "country": "UK",
+    "name": { "default": "Wales", "en": "Wales" }
+  },
+  {
+    "id": 62,
+    "country": "UK",
+    "name": { "default": "Northern Ireland", "en": "Northern Ireland" }
+  }
+]
