@@ -47,15 +47,16 @@ include 'form_data.php';
                 <input type="password" name="password" placeholder="Password" required><br><br>
                 <input type="text" name="username" placeholder="Username" required><br><br>
                 <input type="file" name="image"><br><br>
-                <select name="country" id="country" required>
-                    <option value="">Select Country</option>
-                    <option value="UK">UK</option>
+                <select name="country" id="country" required> 
+
+                 <option value="">Select Country</option>
+                    <!-- <option value="UK">UK</option>
                     <option value="India">India</option>
                     <option value="USA">USA</option>
                     <option value="Canada">Canada</option>
-                    <option value="Australia">Australia</option>
+                    <option value="Australia">Australia</option>  -->
                 </select><br><br>
-                <select name="state" id="state" style="display:none;">
+                <select name="state" id="state">
                     <option value="">Select State</option>
                 </select><br><br>
                 <input type="submit" value="Create User">
